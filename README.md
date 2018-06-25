@@ -1,0 +1,2 @@
+# CorruptingString
+Produce randomly string 
